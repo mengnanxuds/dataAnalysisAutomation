@@ -9,7 +9,7 @@ Welcome to Data Analysis Automation! This repository is designed to help you aut
 ```
 dataAnalysisAutomation/
 │
-├── data/                               # Raw and cleaned datasets
+├── data/                               # Datasets
 │   ├── raw/                            # Raw data files
 │   │   ├── auto.csv
 │   │   ├── module_5_auto.csv
@@ -17,35 +17,17 @@ dataAnalysisAutomation/
 │   ├── processed/                      # Cleaned/processed data files
 │       ├── clean_df.csv
 │
-├── projects/                           # Analysis projects and notebooks
-│   ├── 1_intro_data_loading/           # Introductory projects
-│   │   ├── 1.1 Review-Introduction-importing_data.ipynb
-│   │   ├── 1.3 Practice_data_loading.ipynb
-│   │
-│   ├── 2_data_wrangling/               # Data wrangling practice
-│   │   ├── 2.2 Labs-Review-Data-Wrangling.ipynb
-│   │   ├── 2.4 practice_data_wrangling.ipynb
-│   │
+├── projects/                           # Jupyter Notebook Projects
+│   ├── 1_intro_data_loading/           # Basics: Data importing/loading
+│   ├── 2_data_wrangling/               # Data wrangling practices
 │   ├── 3_exploratory_analysis/         # Exploratory Data Analysis (EDA)
-│   │   ├── 3.4 Exploratory_data_analysis_cars.ipynb
-│   │   ├── 3.5 practice_Exploratory_data_analysis.ipynb
-│   │
-│   ├── 4_model_development/            # Model development projects
-│   │   ├── 4.2 -Review-Model-Development.ipynb
-│   │   ├── 4.4 practice_model_development_lab.ipynb
-│   │
+│   ├── 4_model_development/            # Model building and development
 │   ├── 5_model_evaluation/             # Model evaluation and refinement
-│   │   ├── 5.2 Model_Evaluation_and_Refinement.ipynb
-│   │   ├── 5.4 practice_model_evaluation.ipynb
-│   │
-│   ├── 6_final_projects/               # Capstone and final projects
-│       ├── 6.1.1 practice_project.ipynb
-│       ├── 6.2 House_Sales_in_King_Count_USA.ipynb
-│       ├── House_Sales_in_King_Count_USA.ipynb
+│   ├── 6_final_projects/               # Final projects and capstones
 │
-├── README.md                           # Overview of the repository
-│
-└── requirements.txt                    # Dependencies and required libraries
+├── README.md                           # Repository guide
+└── requirements.txt                    # Required libraries
+
 
 
 ```
@@ -107,14 +89,14 @@ Happy analyzing! 📈✨
 
 
 
-## 🎉 Thanks for Reading My Repo!  
+## 🎉 Thanks for Exploring this Repo!  
 
 Thank you for taking the time to explore this project. I hope it helps you understand and implement classic machine learning algorithms with ease.  
 
 If you found this project useful, feel free to:  
 - ⭐ **Star** this repository to show your support.  
 - 🛠️ Fork and contribute to improve it further.  
-- 💬 Reach out with any questions, feedback, or suggestions!  
+- 💬 Reach out with any questions, feedback, or suggestions via [email](mengnanxu2333@gmail.com), [LinkedIn](www.linkedin.com/in/isobelxu) or Web message!  
 
 Happy coding and learning! 🚀  
 
