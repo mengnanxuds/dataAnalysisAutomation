@@ -54,40 +54,41 @@ pip install -r requirements.txt
 ### 3. Explore the Projects
 The projects folder contains multiple stages of data analysis:
 
-1_intro_data_loading/: Learn how to load and import datasets.
-2_data_wrangling/: Practice cleaning and transforming data.
-3_exploratory_analysis/: Perform EDA to uncover insights.
-4_model_development/: Build and train machine learning models.
-5_model_evaluation/: Evaluate and refine models for accuracy.
-6_final_projects/: Capstone projects combining all steps.
+-1_intro_data_loading: Learn how to load and import datasets.
+-2_data_wrangling: Practice cleaning and transforming data.
+-3_exploratory_analysis: Perform EDA to uncover insights.
+-4_model_development: Build and train machine learning models.
+-5_model_evaluation: Evaluate and refine models for accuracy.
+-6_final_projects: Capstone projects combining all steps.
 ### 📊 Data Description
 The data folder includes:
 
-raw/: Original datasets (auto.csv, module_5_auto.csv, usedcars.csv).
-processed/: Cleaned and prepared datasets for analysis (clean_df.csv).
+**raw/:** Original datasets (auto.csv, module_5_auto.csv, usedcars.csv).
+**processed/:** Cleaned and prepared datasets for analysis (clean_df.csv).
+
 ### 💡 Key Highlights
-End-to-End Workflows: From importing data to building and evaluating models.
-Hands-On Learning: Structured projects to practice key data analysis skills.
-Reusability: Modular structure for applying techniques to your own datasets.
+**End-to-End Workflows:** From importing data to building and evaluating models.
+**Hands-On Learning:** Structured projects to practice key data analysis skills.
+**Reusability:** Modular structure for applying techniques to your own datasets.
 ### 🛠️ Tools & Technologies
-Programming Language: Python
-Tools & Libraries:
-pandas, numpy – Data manipulation
-matplotlib, seaborn – Visualization
-sklearn – Machine Learning
-Jupyter Notebook
+- Programming Language: Python
+- Data Manipulation: pandas, numpy
+- Visualization: matplotlib, seaborn
+- Machine Learning: sklearn
+- Development Environment: Jupyter Notebook
+
 ### 🧩 How to Contribute
 Fork the repository.
 Create a new branch for your feature/bug fix.
 Commit and push your changes.
 Submit a pull request.
-📄 License
+### 📄 License
 This project is licensed under the MIT License.
 
-📞 Support
+### 📞 Support
 For questions, suggestions, or issues, feel free to reach out or create a GitHub issue.
 
-Happy analyzing! 📈✨
+**Happy analyzing! 📈✨**
 
 
 
@@ -99,7 +100,7 @@ Thank you for taking the time to explore this project. I hope it helps you under
 If you found this project useful, feel free to:  
 - ⭐ **Star** this repository to show your support.  
 - 🛠️ Fork and contribute to improve it further.  
-- 💬 Reach out with any questions, feedback, or suggestions via [email](mengnanxu2333@gmail.com), [LinkedIn](www.linkedin.com/in/isobelxu) or Web message!  
+- 💬 Reach out with any questions, feedback, or suggestions via [email](mailto:mengnanxu2333@gmail.com?subject=A%20message%20from%20your%20Github%20friend&body=Hi%20Mengnan,%0A%0AThis%20is%20), [LinkedIn](https://www.linkedin.com/in/isobelxu) or Web message!  
 
 Happy coding and learning! 🚀  
 
