@@ -47,7 +47,10 @@ cd dataAnalysisAutomation
 Install the necessary Python libraries using the requirements.txt file:
 
  
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+
+```
 ### 3. Explore the Projects
 The projects folder contains multiple stages of data analysis:
 
