@@ -9,14 +9,7 @@ Welcome to Data Analysis Automation! This repository is designed to help you aut
 ```
 dataAnalysisAutomation/
 │
-├── data/                               # Datasets
-│   ├── raw/                            # Raw data files
-│   │   ├── auto.csv
-│   │   ├── module_5_auto.csv
-│   │   ├── usedcars.csv
-│   ├── processed/                      # Cleaned/processed data files
-│       ├── clean_df.csv
-│
+
 ├── projects/                           # Jupyter Notebook Projects
 │   ├── 1_intro_data_loading/           # Basics: Data importing/loading
 │   ├── 2_data_wrangling/               # Data wrangling practices
@@ -24,6 +17,13 @@ dataAnalysisAutomation/
 │   ├── 4_model_development/            # Model building and development
 │   ├── 5_model_evaluation/             # Model evaluation and refinement
 │   ├── 6_final_projects/               # Final projects and capstones
+│   ├── data/                               # Datasets
+|   │   ├── raw/                            # Raw data files
+|   │   │   ├── auto.csv
+|   │   │   ├── module_5_auto.csv
+|   │   │   ├── usedcars.csv
+|   │   ├── processed/                      # Cleaned/processed data files
+|   │       ├── clean_df.csv
 │
 ├── README.md                           # Repository guide
 └── requirements.txt                    # Required libraries
